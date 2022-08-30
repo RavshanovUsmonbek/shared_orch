@@ -1,0 +1,4 @@
+marshmallow-sqlalchemy
+flask-marshmallow
+Flask-SQLAlchemy
+marshmallow-enum
